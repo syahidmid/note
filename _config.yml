@@ -6,3 +6,5 @@ url: https://syahidmid.github.io/note
 
 aux_links:
   Template Repository: https://github.com/syahidmid/note
+
+permalink: /:categories/:title/
