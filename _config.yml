@@ -3,7 +3,6 @@ description: A starter template for a Jekyll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://syahidmid.github.io/note/
-permalink: /:title/
 
 aux_links:
   Template Repository: https://github.com/syahidmid/note
