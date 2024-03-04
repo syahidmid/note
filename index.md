@@ -5,7 +5,7 @@ title: Catatan Saya
 
 ## Screaming Frog
 
-Berikut adalah beberapa artikel sayass:
+Berikut adalah beberapa artikel saya:
 
-- [Bulk Backlink Check](/bulk-backlink-check.html)
-- [My First Post](/my-first-post.html)
+- [Bulk Backlink Check](/bulk-backlink-check/)
+- [My First Post](/my-first-post/)
